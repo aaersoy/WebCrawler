@@ -1,0 +1,42 @@
+﻿{
+  "name": "https://www.yemeksepeti.com/girlboss-burger-sariyer-rumelihisari-mah-istanbul",
+  "city": "istanbul",
+  "restaurant_name": " GirlBoss Burger, Sar\u0131yer (Rumelihisar\u0131 Mah.) ",
+  "state": "besiktas-bebek-mah",
+  "H\u0131z": "9,1",
+  "Servis": "9,2",
+  "Lezzet": "8,7",
+  "menu": {
+    "Girl Boss Burger": "32,50 TL",
+    "  ": "4,00 TL",
+    "Tr\u00fcff Soslu Patates K\u0131zartmas\u0131": "14,00 TL",
+    "Baharatl\u0131 Patates K\u0131zartmas\u0131": "10,00 TL",
+    "Patates K\u0131zartmas\u0131": "10,00 TL",
+    "Parmesanl\u0131 Patates K\u0131zartmas\u0131": "12,00 TL",
+    "Tulum Peynirli Salata": "31,50 TL",
+    "Antep F\u0131st\u0131kl\u0131 Katmer Tatl\u0131s\u0131": "29,00 TL",
+    "Po\u015fet": "0,25 TL"
+  },
+  "servis-alani": [
+    "Sar\u0131yer (Rumelihisar\u0131 Mah.)",
+    "Sar\u0131yer (Rumelihisar\u0131 Mah. - Hisar\u00fcst\u00fc)",
+    "Be\u015fikta\u015f (Akat Mah.)",
+    "Be\u015fikta\u015f (Bebek Mah.)",
+    "Be\u015fikta\u015f (Etiler Mah.)",
+    "Be\u015fikta\u015f (Levent Mah.)",
+    "Be\u015fikta\u015f (Nisbetiye Mah.)",
+    "Sar\u0131yer (Baltaliman\u0131 Mah.)",
+    "Sar\u0131yer (Emirgan Mah.)",
+    "Be\u015fikta\u015f (Arnavutk\u00f6y Mah.)",
+    "Sar\u0131yer (FSM Mah.)"
+  ],
+  "yorumlar": {},
+  "i\u00e7erik": [
+    " Burger",
+    " Yan \u00dcr\u00fcn",
+    " Salata",
+    " Tatl\u0131",
+    " \u0130\u00e7ecek",
+    " Po"
+  ]
+}

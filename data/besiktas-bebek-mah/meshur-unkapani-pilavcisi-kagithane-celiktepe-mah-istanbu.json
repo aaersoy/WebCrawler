@@ -1,0 +1,364 @@
+﻿{
+  "name": "https://www.yemeksepeti.com/meshur-unkapani-pilavcisi-kagithane-celiktepe-mah-istanbul",
+  "city": "istanbul",
+  "restaurant_name": " Me\u015fhur Unkapan\u0131 Pilavc\u0131s\u0131, Ka\u011f\u0131thane (\u00c7eliktepe Mah.) ",
+  "state": "besiktas-bebek-mah",
+  "H\u0131z": "9,6",
+  "Servis": "9,2",
+  "Lezzet": "9,1",
+  "menu": {
+    "G\u00fcn\u00fcn \u00c7orbas\u0131": "8,00 TL",
+    "  ": "0,75 TL",
+    "Cac\u0131k": "9,00 TL",
+    "Ac\u0131 Biber Tur\u015fusu": "0,50 TL",
+    "S\u00fctla\u00e7": "10,00 TL",
+    "Supangle": "10,00 TL",
+    "Po\u015fet": "0,25 TL"
+  },
+  "servis-alani": [
+    "Ka\u011f\u0131thane (\u00c7eliktepe Mah.)",
+    "Ka\u011f\u0131thane (Emniyetevleri Mah.)",
+    "Ka\u011f\u0131thane (G\u00fcltepe Mah.)",
+    "Ka\u011f\u0131thane (Ortabay\u0131r Mah.)",
+    "Ka\u011f\u0131thane (Sultan Selim / Sanayi Mah.)",
+    "Be\u015fikta\u015f (Konaklar Mah.)",
+    "Ka\u011f\u0131thane (Harmantepe Mah.)",
+    "Ka\u011f\u0131thane (\u015eirintepe Mah.)",
+    "Ka\u011f\u0131thane (Telsizler Mah.)",
+    "Ka\u011f\u0131thane (Ye\u015filce Mah.)",
+    "\u015ei\u015fli (Esentepe Mah. - Plazalar)",
+    "Ka\u011f\u0131thane (Yahya Kemal Mah. - Ayazma)",
+    "Ka\u011f\u0131thane (Yahya Kemal Mah. - Ayazma)",
+    "Be\u015fikta\u015f (Levent Mah.)",
+    "Be\u015fikta\u015f (Akat Mah.)",
+    "Be\u015fikta\u015f (Nisbetiye Mah.)",
+    "Ka\u011f\u0131thane (Hamidiye Mah.)",
+    "Ka\u011f\u0131thane (Seyrantepe Mah.)",
+    "\u015ei\u015fli (Mecidiyek\u00f6y Mah.)",
+    "Be\u015fikta\u015f (Bebek Mah.)",
+    "Be\u015fikta\u015f (Etiler Mah.)",
+    "Be\u015fikta\u015f (Gayrettepe Mah.)",
+    "Be\u015fikta\u015f (K\u00fclt\u00fcr Mah.)",
+    "Be\u015fikta\u015f (Ulus Mah.)",
+    "Ka\u011f\u0131thane (\u00c7a\u011flayan Mah.)",
+    "Ka\u011f\u0131thane (G\u00fcrsel Mah.)",
+    "Ka\u011f\u0131thane (H\u00fcrriyet Mah.)",
+    "Ka\u011f\u0131thane (Merkez Mah.)",
+    "Be\u015fikta\u015f (Sinanpa\u015fa Mah.)",
+    "Ka\u011f\u0131thane (Mehmet Akif Ersoy Mah.)",
+    "Ka\u011f\u0131thane (Nurtepe Mah.)",
+    "Ka\u011f\u0131thane (Talatpa\u015fa Mah.)",
+    "Sar\u0131yer (\u0130stinye Mah.)",
+    "Sar\u0131yer (Maslak Mah.)",
+    "Sar\u0131yer (Rumelihisar\u0131 Mah. - Hisar\u00fcst\u00fc)"
+  ],
+  "yorumlar": [
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "Porsiyon iyi ve h\u0131zl\u0131 te\u015fekk\u00fcrler.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "H\u0131zl\u0131 ve s\u0131cak.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "M\u00fckemmel bir lezzet evde daha iyisini yapan \u00e7ok azd\u0131r h\u0131z ve nezaketinize ayr\u0131ca te\u015fekk\u00fcrler.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 9",
+        "Servis: 9",
+        "Lezzet: 8"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "Ci\u011fer pek ba\u015far\u0131l\u0131 de\u011fildi maalesef. Tavuk-pilav g\u00fczeldi.",
+      "yorum-yemek": " Pilav"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "Lezzet harika.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 8",
+        "Lezzet: 10"
+      ],
+      "tarih": "1 g\u00fcn \u00f6nce",
+      "yorum": "Te\u015fekk\u00fcrler. Porsiyon biraz daha b\u00fcy\u00fck olabilir sanki :).",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "1 g\u00fcn \u00f6nce",
+      "yorum": "H\u0131zlar\u0131na diyecek kelime bulam\u0131yorum, tebrik ederim, ba\u015far\u0131lar\u0131n\u0131z\u0131n devam\u0131n\u0131 dilerim.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "1 g\u00fcn \u00f6nce",
+      "yorum": "Superdi tavuguda bol bol koymuslar tesekkuer.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "2 g\u00fcn \u00f6nce",
+      "yorum": "Muhte\u015fem di elinize sa\u011fl\u0131k.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "3 g\u00fcn \u00f6nce",
+      "yorum": "Seviyorum.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "4 g\u00fcn \u00f6nce",
+      "yorum": "S\u00fcper.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "4 g\u00fcn \u00f6nce",
+      "yorum": "Gayet g\u00fczel ve a\u015f\u0131r\u0131 h\u0131zl\u0131yd\u0131.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 9",
+        "Lezzet: 10"
+      ],
+      "tarih": "4 g\u00fcn \u00f6nce",
+      "yorum": "H\u0131z asl\u0131nda 17 ama yemeksepeti en fazla 10 koymu\u015f.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 8",
+        "Lezzet: 10"
+      ],
+      "tarih": "4 g\u00fcn \u00f6nce",
+      "yorum": "Tavuk miktar\u0131 biraz azd\u0131. Onun haricinde pilav g\u00fczel.",
+      "yorum-yemek": " Pilav"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "6 g\u00fcn \u00f6nce",
+      "yorum": "Misgibi tavuk pilav bir de karabiber yollasalar tad\u0131ndan yenmez.",
+      "yorum-yemek": " Pilav"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "6 g\u00fcn \u00f6nce",
+      "yorum": "Tavuklu pilav\u0131 \u00e7ok iyi fakat ci\u011feri begenmedim umarim duzelir.",
+      "yorum-yemek": " Pilav"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "6 g\u00fcn \u00f6nce",
+      "yorum": "S\u00fcrekli s\u00f6yledi\u011fimiz yer hem s\u0131cak geliyor hem de \u00e7oook lezzetli.. Hizmetleriniz i\u00e7in te\u015fekk\u00fcrler!",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 9",
+        "Lezzet: 10"
+      ],
+      "tarih": "6 g\u00fcn \u00f6nce",
+      "yorum": "Ke\u015fke pilav\u0131n yan\u0131nda paket karabiber yollasalard\u0131. Geri kalan her \u015fey 10 numarayd\u0131.",
+      "yorum-yemek": " Pilav"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "6 g\u00fcn \u00f6nce",
+      "yorum": "Temiz ve g\u00fczel \u00fcr\u00fcnler kaliteli.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "7 g\u00fcn \u00f6nce",
+      "yorum": "O kadar h\u0131zl\u0131 geliyor ki insan sonradan puan vermeyi unutuyor. 4 dakikada getirebilmek nedir nas\u0131l bir \u015feydir :).",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 8",
+        "Servis: 9",
+        "Lezzet: 10"
+      ],
+      "tarih": "7 g\u00fcn \u00f6nce",
+      "yorum": "G\u00fczel.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "7 g\u00fcn \u00f6nce",
+      "yorum": "\u00c7ok leziz ve taze \u00e7ok te\u015fekk\u00fcr ederim.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "7 g\u00fcn \u00f6nce",
+      "yorum": "Thank you for your good foods.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "7 g\u00fcn \u00f6nce",
+      "yorum": "Lezzetlii.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "7 g\u00fcn \u00f6nce",
+      "yorum": "Reis fiyatlar biraz pahal\u0131 sanki.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "8 g\u00fcn \u00f6nce",
+      "yorum": "Her zamanki gibi s\u00fcperdi.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "8 g\u00fcn \u00f6nce",
+      "yorum": "Her zamanki gibi m\u00fckemmel.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "8 g\u00fcn \u00f6nce",
+      "yorum": "Ba\u015far\u0131l\u0131.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 1",
+        "Lezzet: 10"
+      ],
+      "tarih": "8 g\u00fcn \u00f6nce",
+      "yorum": "Ya \u015fehirin neresine giderseniz gidin bu pilav tavu\u011fun yan\u0131nda karabiber istemeden verilir neden biz her seferinde istiyoruz istemeden g\u00f6ndermiyorsunuz anlam\u0131\u015f de\u011filim her seferinde puan\u0131 k\u0131r\u0131cam.",
+      "yorum-yemek": " Pilav"
+    },
+    {
+      "puan": [
+        "H\u0131z: 9",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "9 g\u00fcn \u00f6nce",
+      "yorum": "Pilav \u00e7ok g\u00fczeldi ama tatl\u0131n\u0131 hi\u00e7 bay\u0131lmad\u0131m biraz farkl\u0131 olabilirdi elinize sa\u011fl\u0131k.",
+      "yorum-yemek": " Pilav"
+    }
+  ],
+  "i\u00e7erik": [
+    " Coca-Cola Se\u00e7ilmi\u015f Men\u00fcl",
+    " \u00c7orba",
+    " Pilav",
+    " Ana Yemek",
+    " Yan \u00dcr\u00fcn"
+  ]
+}

@@ -1,0 +1,249 @@
+﻿{
+  "name": "https://www.yemeksepeti.com/jungle-lounge-sisli-gulbahar-mah-gulbag-istanbul",
+  "city": "istanbul",
+  "restaurant_name": " Jungle Lounge., \u015ei\u015fli (G\u00fclbahar Mah. - G\u00fclba\u011f) ",
+  "state": "besiktas-bebek-mah",
+  "H\u0131z": "8,6",
+  "Servis": "8,7",
+  "Lezzet": "7,5",
+  "menu": {
+    "K\u00f6y Kahvalt\u0131s\u0131 (2 Ki\u015filik)": "55,00 TL",
+    "Antep Tava": "40,00 TL",
+    "Barbek\u00fc Soslu Et": "45,00 TL",
+    "Demi Glace Soslu Antrikot": "45,00 TL",
+    "Izgara Antrikot": "40,00 TL",
+    "Izgara Ka\u015farl\u0131 K\u00f6fte": "29,00 TL",
+    "Izgara K\u00f6fte": "27,00 TL",
+    "K\u00f6ri Soslu Et": "45,00 TL",
+    "Kremal\u0131 Mantarl\u0131 Et Tava": "45,00 TL",
+    "Mexican Et": "45,00 TL",
+    "Soya Soslu Et": "45,00 TL",
+    "Barbek\u00fc Soslu Tavuk": "28,00 TL",
+    "Izgara Tavuk": "26,00 TL",
+    "K\u00f6ri Soslu Tavuk": "28,00 TL",
+    "Kremal\u0131 Mantarl\u0131 Tavuk": "27,00 TL",
+    "Mexican Tavuk": "29,00 TL",
+    "Soya Soslu Tavuk": "28,00 TL",
+    "Tavuk Schnitzel": "26,00 TL",
+    "Penne Arrabbiata": "25,00 TL",
+    "Fettuccine Alfredo": "27,00 TL",
+    "Penne Alfredo": "26,00 TL",
+    "Spaghetti Napolitan": "23,00 TL",
+    "Tavuklu K\u00f6ri Soslu Penne": "27,00 TL",
+    "Spaghetti Bolognese": "26,00 TL",
+    "Mant\u0131": "24,00 TL",
+    "Cheddarl\u0131 Tavuk Burger": "28,00 TL",
+    "Cheeseburger": "28,00 TL",
+    "Hamburger": "27,00 TL",
+    "Jungle Double Special Burger": "44,00 TL",
+    "Jungle Double Special Tavuk Burger": "36,00 TL",
+    "Mantar Soslu Burger": "31,00 TL",
+    "Mexican Ac\u0131l\u0131 Burger": "28,00 TL",
+    "Tavuk Burger": "25,00 TL",
+    "K\u00f6fte Wrap": "29,00 TL",
+    "Sebzeli Wrap": "27,00 TL",
+    "Tavuklu Sezar Wrap": "29,00 TL",
+    "Tavuklu Wrap": "30,00 TL",
+    "Akdeniz Salata": "21,00 TL",
+    "Barbek\u00fc Soslu Tavuklu Salata": "23,00 TL",
+    "\u00c7\u0131t\u0131r Tavuk Salata": "24,00 TL",
+    "\u00c7oban Salata": "19,00 TL",
+    "Dana Bonfile Salata": "27,00 TL",
+    "Izgara Hellim Salata": "24,00 TL",
+    "Ton Bal\u0131kl\u0131 Salata": "24,00 TL",
+    "Combo Taba\u011f\u0131": "29,00 TL",
+    "Sigara B\u00f6re\u011fi": "16,00 TL",
+    "So\u011fan Halkas\u0131": "20,00 TL",
+    "\u00c7\u0131t\u0131r Tavuk": "25,00 TL",
+    "Patates K\u0131zartmas\u0131": "18,00 TL",
+    "Sosis Taba\u011f\u0131": "25,00 TL",
+    "\u00c7ikolatal\u0131 Pasta": "20,00 TL",
+    "F\u0131st\u0131k R\u00fcyas\u0131": "20,00 TL",
+    "F\u0131st\u0131kl\u0131 Latte": "20,00 TL",
+    "Frambuazl\u0131 Mono Pasta": "20,00 TL",
+    "Limonlu Cheesecake": "20,00 TL",
+    "Profiterol": "20,00 TL",
+    "Tiramisu": "20,00 TL",
+    "  ": "5,00 TL",
+    "Po\u015fet": "0,25 TL"
+  },
+  "servis-alani": [
+    "\u015ei\u015fli (G\u00fclbahar Mah. - G\u00fclba\u011f)",
+    "Be\u015fikta\u015f (Gayrettepe Mah.)",
+    "Be\u015fikta\u015f (Gayrettepe Mah.)",
+    "Ka\u011f\u0131thane (\u00c7eliktepe Mah.)",
+    "Ka\u011f\u0131thane (\u00c7eliktepe Mah.)",
+    "Ka\u011f\u0131thane (G\u00fcltepe Mah.)",
+    "Ka\u011f\u0131thane (G\u00fcltepe Mah.)",
+    "\u015ei\u015fli (19 May\u0131s Mah.)",
+    "\u015ei\u015fli (Esentepe Mah. - Plazalar)",
+    "\u015ei\u015fli (Esentepe Mah.)",
+    "\u015ei\u015fli (Fulya Mah. - Ortaklar)",
+    "\u015ei\u015fli (Fulya Mah.)",
+    "\u015ei\u015fli (\u0130zzet Pa\u015fa Mah.)",
+    "\u015ei\u015fli (Ku\u015ftepe Mah.)",
+    "\u015ei\u015fli (Mecidiyek\u00f6y Mah. - Dereboyu)",
+    "\u015ei\u015fli (Mecidiyek\u00f6y Mah.)",
+    "\u015ei\u015fli (Merkez Mah.)",
+    "Be\u015fikta\u015f (Abbasa\u011fa Mah.)",
+    "Be\u015fikta\u015f (Akat Mah.)",
+    "Be\u015fikta\u015f (Arnavutk\u00f6y Mah.)",
+    "Be\u015fikta\u015f (Balmumcu Mah.)",
+    "Be\u015fikta\u015f (Bebek Mah.)",
+    "Be\u015fikta\u015f (Cihannuma Mah.)",
+    "Be\u015fikta\u015f (Dikilita\u015f Mah.)",
+    "Be\u015fikta\u015f (Etiler Mah.)",
+    "Be\u015fikta\u015f (Konaklar Mah.)",
+    "Be\u015fikta\u015f (Kuru\u00e7e\u015fme Mah.)",
+    "Be\u015fikta\u015f (K\u00fclt\u00fcr Mah.)",
+    "Be\u015fikta\u015f (Levaz\u0131m Mah.)",
+    "Be\u015fikta\u015f (Levent Mah.)",
+    "Be\u015fikta\u015f (Mecidiye Mah.)",
+    "Be\u015fikta\u015f (Muradiye Mah.)",
+    "Be\u015fikta\u015f (Nisbetiye Mah.)",
+    "Be\u015fikta\u015f (Ortak\u00f6y Mah.)",
+    "Be\u015fikta\u015f (Sinanpa\u015fa Mah.)",
+    "Be\u015fikta\u015f (T\u00fcrkali Mah.)",
+    "Be\u015fikta\u015f (Ulus Mah.)",
+    "Be\u015fikta\u015f (Vi\u015fnezade Mah. - Akaretler)",
+    "Be\u015fikta\u015f (Y\u0131ld\u0131z Mah.)",
+    "Ka\u011f\u0131thane (\u00c7a\u011flayan Mah.)",
+    "Ka\u011f\u0131thane (Emniyetevleri Mah.)",
+    "Ka\u011f\u0131thane (G\u00fcrsel Mah.)",
+    "Ka\u011f\u0131thane (Hamidiye Mah.)",
+    "Ka\u011f\u0131thane (Harmantepe Mah.)",
+    "Ka\u011f\u0131thane (H\u00fcrriyet Mah.)",
+    "Ka\u011f\u0131thane (Mehmet Akif Ersoy Mah.)",
+    "Ka\u011f\u0131thane (Merkez Mah.)",
+    "Ka\u011f\u0131thane (Nurtepe Mah.)",
+    "Ka\u011f\u0131thane (Ortabay\u0131r Mah.)",
+    "Ka\u011f\u0131thane (Seyrantepe Mah.)",
+    "Ka\u011f\u0131thane (Sultan Selim / Sanayi Mah.)",
+    "Ka\u011f\u0131thane (\u015eirintepe Mah.)",
+    "Ka\u011f\u0131thane (Talatpa\u015fa Mah.)",
+    "Ka\u011f\u0131thane (Telsizler Mah.)",
+    "Ka\u011f\u0131thane (Yahya Kemal Mah. - Ayazma)",
+    "Ka\u011f\u0131thane (Ye\u015filce Mah.)",
+    "Sar\u0131yer (Maslak Mah.)"
+  ],
+  "yorumlar": [
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "Tek kelimeyle harika paketi getiren arkada\u015fa \u00e7ok te\u015fekk\u00fcrler (:.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "Porsiyonlar biraz daha b\u00fcy\u00fck olabilir.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "\u0130kinci kez wrap yiyorum ba\u011f\u0131ml\u0131l\u0131k yapt\u0131 kimsenin doymama ihtimali dahi yok her\u015fey i\u00e7in te\u015fekk\u00fcrler..",
+      "yorum-yemek": " Wr"
+    },
+    {
+      "puan": [
+        "H\u0131z: 7",
+        "Servis: 7",
+        "Lezzet: 7"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "Makarnalar g\u00fczeldi ama kremas\u0131 azd\u0131 ve ak\u0131\u015fkan de\u011fildi.",
+      "yorum-yemek": " Makarna"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "Ger\u00e7ek anlam\u0131yla h\u0131z olsun lezzet olsun harikayd\u0131 elinize sa\u011fl\u0131k.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "1 g\u00fcn \u00f6nce",
+      "yorum": "Ger\u00e7ekten \u00e7ok h\u0131zl\u0131 ve \u00e7ok lezzetliydi \u00e7ok te\u015fekk\u00fcr ederim daha \u00f6nce b\u00f6le bir wrap yememi\u015ftim jungle.",
+      "yorum-yemek": " Wr"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "2 g\u00fcn \u00f6nce",
+      "yorum": "\u0130nan\u0131lmaz lezzet inal\u0131maz h\u0131z her\u015fey i\u00e7in te\u015fekk\u00fcrler.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "3 g\u00fcn \u00f6nce",
+      "yorum": "Cidden \u00e7ok lezzetliydi son zamanlarda yedi\u011fim en g\u00fczel wrapti.",
+      "yorum-yemek": " Wr"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "3 g\u00fcn \u00f6nce",
+      "yorum": "A\u00e7\u0131kcas\u0131 bu kadar g\u00fczel oluca\u011f\u0131n\u0131 tahmin etmemi\u015ftim hayat\u0131mda yedi\u011fim en iyi wraplerden biriydi ve \u00e7ok h\u0131zl\u0131 geldi umar\u0131m b\u00f6yle devam eder te\u015fekk\u00fcr ederim.",
+      "yorum-yemek": " Wr"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "3 g\u00fcn \u00f6nce",
+      "yorum": "Yemekler \u00e7ok lezzetli h\u0131z konusunda \u00fcst\u00fcne yok \u00e7ok h\u0131zl\u0131 bir \u015fekilde geldi serviste ola\u011fan\u00fcst\u00fcyd\u00fc.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 9",
+        "Servis: 9",
+        "Lezzet: 10"
+      ],
+      "tarih": "3 g\u00fcn \u00f6nce",
+      "yorum": "Wrap efsaneydi ellerinize sa\u011fl\u0131k, tad\u0131 ve s\u0131cakl\u0131\u011f\u0131 \u00e7ok iyiydi.. Wrapi tavsiye ederim..",
+      "yorum-yemek": " Wr"
+    }
+  ],
+  "i\u00e7erik": [
+    " Kahvalt\u0131l\u0131k",
+    " K\u0131rm\u0131z\u0131 Et",
+    " Beyaz Et",
+    " Makarna",
+    " Burger",
+    " Wr"
+  ]
+}

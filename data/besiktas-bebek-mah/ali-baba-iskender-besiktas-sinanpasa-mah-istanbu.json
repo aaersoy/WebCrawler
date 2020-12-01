@@ -1,0 +1,425 @@
+﻿{
+  "name": "https://www.yemeksepeti.com/ali-baba-iskender-besiktas-sinanpasa-mah-istanbul",
+  "city": "istanbul",
+  "restaurant_name": " Ali Baba \u0130skender, Be\u015fikta\u015f (Sinanpa\u015fa Mah.) ",
+  "state": "besiktas-bebek-mah",
+  "H\u0131z": "9,0",
+  "Servis": "8,7",
+  "Lezzet": "8,4",
+  "menu": {
+    "\u0130skender (Et D\u00f6nerden) Men\u00fc": "42,00 TL",
+    "B\u00fcy\u00fck \u0130ndirim Men\u00fc": "100,00 TL",
+    "5'li Lahmacun Men\u00fc": "50,00 TL",
+    "Pide Men\u00fc": "40,00 TL",
+    "Adana Kebap Men\u00fc": "42,00 TL",
+    "Lahmacun Men\u00fc": "39,00 TL",
+    "Special \u0130skender (Et D\u00f6nerden) Men\u00fc": "55,00 TL",
+    "Et D\u00f6ner Men\u00fc": "52,00 TL",
+    "Tavuk Men\u00fc": "50,00 TL",
+    "  ": "3,00 TL",
+    "\u00c7i\u011f K\u00f6fte (10 S\u0131k\u0131m)": "20,00 TL",
+    "Et D\u00f6ner": "36,00 TL",
+    "Pilav \u00dcst\u00fc Et D\u00f6ner": "38,00 TL",
+    "Et D\u00f6ner D\u00fcr\u00fcm": "24,00 TL",
+    "Etibol Bursa Kebab\u0131": "52,00 TL",
+    "Adana Kebap": "36,00 TL",
+    "Urfa Kebap": "36,00 TL",
+    "Sebzeli Kebap": "52,00 TL",
+    "Patl\u0131canl\u0131 Kebap": "52,00 TL",
+    "F\u0131st\u0131kl\u0131 Kebap": "52,00 TL",
+    "Alinazik Kebap (Kuzu \u015ei\u015f)": "55,00 TL",
+    "Veggie Kebap": "36,00 TL",
+    "Izgara K\u00f6fte": "36,00 TL",
+    "Kuzu \u015ei\u015f": "52,00 TL",
+    "Tavuk Biftek": "33,00 TL",
+    "Tavuk Kanat": "33,00 TL",
+    "Tavuk Pirzola": "33,00 TL",
+    "Tavuk \u015ei\u015f": "33,00 TL",
+    "Kar\u0131\u015f\u0131k Izgara": "75,00 TL",
+    "\u00d6zel Lahmacun": "12,00 TL",
+    "Ka\u015farl\u0131 K\u0131ymal\u0131 Pide (A\u00e7\u0131k)": "33,00 TL",
+    "K\u0131ymal\u0131 Pide (A\u00e7\u0131k)": "28,00 TL",
+    "Ka\u015farl\u0131 Pide (A\u00e7\u0131k)": "28,00 TL",
+    "Ka\u015farl\u0131 Mantarl\u0131 Pide (A\u00e7\u0131k)": "28,00 TL",
+    "Tavuklu Pide": "28,00 TL",
+    "Ku\u015fba\u015f\u0131l\u0131 Pide (A\u00e7\u0131k)": "33,00 TL",
+    "Ka\u015farl\u0131 Ku\u015fba\u015f\u0131l\u0131 Pide (A\u00e7\u0131k)": "33,00 TL",
+    "Ka\u015farl\u0131 Sucuklu Pide (A\u00e7\u0131k)": "33,00 TL",
+    "Kar\u0131\u015f\u0131k Pide (A\u00e7\u0131k)": "33,00 TL",
+    "Adana D\u00fcr\u00fcm": "24,00 TL",
+    "Urfa D\u00fcr\u00fcm": "24,00 TL",
+    "Kuzu \u015ei\u015f D\u00fcr\u00fcm": "30,00 TL",
+    "Tavuk \u015ei\u015f D\u00fcr\u00fcm": "24,00 TL",
+    "Pirin\u00e7 Pilav\u0131": "12,00 TL",
+    "Bulgur Pilav\u0131": "12,00 TL",
+    "Kar\u0131\u015f\u0131k Tur\u015fu": "13,00 TL",
+    "Patl\u0131can Salatas\u0131": "13,00 TL",
+    "\u00c7oban Salata": "13,00 TL",
+    "Ye\u015fil Salata": "13,00 TL",
+    "Kar\u0131\u015f\u0131k Salata": "13,00 TL",
+    "Peynirli Salata": "13,00 TL",
+    "Ezme Salata": "13,00 TL",
+    "G\u00f6bek Salata": "13,00 TL",
+    "Gavurda\u011f\u0131 Salata": "13,00 TL",
+    "Kemalpa\u015fa Tatl\u0131s\u0131": "18,00 TL",
+    "F\u0131r\u0131n S\u00fctla\u00e7": "18,00 TL",
+    "Nestea (33 cl.)": "7,00 TL"
+  },
+  "servis-alani": [
+    "Be\u015fikta\u015f (Sinanpa\u015fa Mah.)",
+    "Be\u015fikta\u015f (Abbasa\u011fa Mah.)",
+    "Be\u015fikta\u015f (Muradiye Mah.)",
+    "Be\u015fikta\u015f (T\u00fcrkali Mah.)",
+    "Be\u015fikta\u015f (Vi\u015fnezade Mah. - Akaretler)",
+    "Be\u015fikta\u015f (Cihannuma Mah.)",
+    "Be\u015fikta\u015f (Dikilita\u015f Mah.)",
+    "Be\u015fikta\u015f (Mecidiye Mah.)",
+    "Be\u015fikta\u015f (Y\u0131ld\u0131z Mah.)",
+    "\u015ei\u015fli (Harbiye Mah. - Ma\u00e7ka)",
+    "Be\u015fikta\u015f (Balmumcu Mah.)",
+    "\u015ei\u015fli (19 May\u0131s Mah.)",
+    "\u015ei\u015fli (Fulya Mah.)",
+    "\u015ei\u015fli (Harbiye Mah.)",
+    "\u015ei\u015fli (Mahmut \u015eevket Pa\u015fa Mah.)",
+    "\u015ei\u015fli (Me\u015frutiyet Mah. - Ni\u015fanta\u015f\u0131)",
+    "\u015ei\u015fli (Te\u015fvikiye Mah.)",
+    "Be\u015fikta\u015f (Gayrettepe Mah.)",
+    "Be\u015fikta\u015f (Ortak\u00f6y Mah.)",
+    "Beyo\u011flu (G\u00fcm\u00fc\u015fsuyu Mah.)",
+    "Beyo\u011flu (\u00d6meravni Mah. - F\u0131nd\u0131kl\u0131)",
+    "\u015ei\u015fli (Merkez Mah.)",
+    "\u015ei\u015fli (Esentepe Mah. - Plazalar)",
+    "Be\u015fikta\u015f (Arnavutk\u00f6y Mah.)",
+    "Be\u015fikta\u015f (Bebek Mah.)",
+    "Be\u015fikta\u015f (Etiler Mah.)",
+    "Be\u015fikta\u015f (Kuru\u00e7e\u015fme Mah.)",
+    "Be\u015fikta\u015f (K\u00fclt\u00fcr Mah.)",
+    "Be\u015fikta\u015f (Levaz\u0131m Mah.)",
+    "Be\u015fikta\u015f (Levent Mah.)",
+    "Be\u015fikta\u015f (Nisbetiye Mah.)",
+    "Be\u015fikta\u015f (Ulus Mah.)",
+    "Beyo\u011flu (Cihangir Mah. - S\u0131raselviler)",
+    "Beyo\u011flu (Cihangir Mah.)",
+    "Beyo\u011flu (Evliya \u00c7elebi Mah. - \u015ei\u015fhane)",
+    "Beyo\u011flu (M\u00fceyyetzade Mah. - Karak\u00f6y)",
+    "\u015ei\u015fli (Cumhuriyet Mah. - Bomonti)",
+    "\u015ei\u015fli (Duatepe Mah.)",
+    "\u015ei\u015fli (Eski\u015fehir Mah.)",
+    "\u015ei\u015fli (\u0130zzet Pa\u015fa Mah.)",
+    "\u015ei\u015fli (Mecidiyek\u00f6y Mah. - Dereboyu)",
+    "\u015ei\u015fli (Mecidiyek\u00f6y Mah.)",
+    "\u015ei\u015fli (Pa\u015fa Mah.)",
+    "\u015ei\u015fli (Yayla Mah.)"
+  ],
+  "yorumlar": [
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "bug\u00fcn",
+      "yorum": "Ellerinize sa\u011fl\u0131k.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 8",
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "1 g\u00fcn \u00f6nce",
+      "yorum": "Lahmacunlar daha \u00e7\u0131t\u0131r olursa iyi olur.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 5"
+      ],
+      "tarih": "2 g\u00fcn \u00f6nce",
+      "yorum": "Bir g\u00fcn muazzam lezette beyti geliyor, ba\u015fka bir g\u00fcn yavan lezzette... Zaten iyi kebap yapabilirken neden arada k\u00f6t\u00fc yapabiliyorsun bilemiyorum...",
+      "yorum-yemek": " Kebap"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "5 g\u00fcn \u00f6nce",
+      "yorum": "H\u0131z ve kalite s\u00fcper verdi\u011fimiz fiyata de\u011fer ac\u0131l\u0131s\u0131n\u0131 denemelisiniz.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "6 g\u00fcn \u00f6nce",
+      "yorum": "Hayat\u0131mda yedi\u011fim en g\u00fczllerin aras\u0131nda iskenderi.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 6",
+        "Servis: 9",
+        "Lezzet: 8"
+      ],
+      "tarih": "7 g\u00fcn \u00f6nce",
+      "yorum": "Biraz daha az sos \u00f6b\u00fcr t\u00fcrl\u00fc menemen s\u00f6ylemi\u015f gibi oluyoruz ama tad\u0131 \u015fahane.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "8 g\u00fcn \u00f6nce",
+      "yorum": "\u00c7ok iyi.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "10 g\u00fcn \u00f6nce",
+      "yorum": "Leziz.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "11 g\u00fcn \u00f6nce",
+      "yorum": "\u0130skender gayet guzeldi et kokmuyordu.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "11 g\u00fcn \u00f6nce",
+      "yorum": "Be\u015fikta\u015f en h\u0131zl\u0131 paket servis diyebilirim.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 9",
+        "Servis: 4",
+        "Lezzet: 4"
+      ],
+      "tarih": "11 g\u00fcn \u00f6nce",
+      "yorum": "Sipari\u015f h\u0131zl\u0131 geldi ancak restoranda yedi\u011fimin yan\u0131ndan ge\u00e7emez lezzet olarak. Tavuk kanat sipari\u015f etmi\u015ftim, tavuk \u015fi\u015f geldi. \u00c7i\u011fk\u00f6fte sal\u00e7a toplar\u0131 gibiydi. Et \u015fi\u015f ve kebaplar lezzetsizdi. Ya kasap ya da usta de\u011fi\u015fmi\u015f san\u0131r\u0131m. Severek gitti\u011fim de bir restoran ancak paket servis \u00fczd\u00fc.",
+      "yorum-yemek": " Kebap"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "12 g\u00fcn \u00f6nce",
+      "yorum": "Ellerinize sa\u011fl\u0131k \u00e7ok g\u00fczel ve s\u0131cak geldi.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 8",
+        "Servis: 8",
+        "Lezzet: 8"
+      ],
+      "tarih": "12 g\u00fcn \u00f6nce",
+      "yorum": "Ortalama bir restorant.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "14 g\u00fcn \u00f6nce",
+      "yorum": "Etin tadi cok degismis.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "15 g\u00fcn \u00f6nce",
+      "yorum": "Ellerinize sa\u011fl\u0131k \u00e7ok g\u00fczel.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "17 g\u00fcn \u00f6nce",
+      "yorum": "Sizlere ne demem gerekiyo inan\u0131n yazarken \u00e7ok d\u00fc\u015f\u00fcnd\u00fcm ama verdigim paran\u0131n 1tl sini haketmediginizi bilmenizi istiyorum d\u00f6ner ayr\u0131 bir rezalet pilavi ayr\u0131 bir rezalet yapam\u0131yorsan\u0131z gece d\u00f6ner hizmeti vermeyin.",
+      "yorum-yemek": " D\u00f6ner"
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "18 g\u00fcn \u00f6nce",
+      "yorum": "B\u00f6lgedeki en iyi iskenderi buras\u0131 yap\u0131yor. Et iyi sos k\u0131vam\u0131 muhte\u015fem.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 9",
+        "Servis: 8",
+        "Lezzet: 4"
+      ],
+      "tarih": "18 g\u00fcn \u00f6nce",
+      "yorum": "H\u0131zl\u0131 geldi servis iyiydi ama tats\u0131zd\u0131 bir daha s\u00f6ylemem.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 9",
+        "Servis: 9",
+        "Lezzet: 9"
+      ],
+      "tarih": "18 g\u00fcn \u00f6nce",
+      "yorum": "Te\u015fekk\u00fcr ederim \u00e7ok be\u011fendik.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "19 g\u00fcn \u00f6nce",
+      "yorum": "M\u00fckemmeldi, ikramlar i\u00e7in \u00e7ok t\u015fk.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 8",
+        "Servis: 5",
+        "Lezzet: 3"
+      ],
+      "tarih": "20 g\u00fcn \u00f6nce",
+      "yorum": "D\u00fcr\u00fcm\u00fcn i\u00e7indeki et hem so\u011fuk hem kurumu\u015ftu, ayr\u0131ca lava\u015f da resmen hamur gibiydi. K\u00fcnefe de ayn\u0131 \u015fekilde buz gibi geldi. Asla sipari\u015f vermem bir daha \u00e7ok ay\u0131p buz gibi ve kupkuru yeme\u011fe onca para.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "21 g\u00fcn \u00f6nce",
+      "yorum": "Leziz.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 1",
+        "Lezzet: 10"
+      ],
+      "tarih": "21 g\u00fcn \u00f6nce",
+      "yorum": "They didnt bring me coco cola which one \u0131 ordered but took money for it. When \u0131 checked my order after delivery and called back they told that they forgot and didnt bring. (.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 9",
+        "Lezzet: 9"
+      ],
+      "tarih": "21 g\u00fcn \u00f6nce",
+      "yorum": "Notu dikkate ald\u0131\u011f\u0131n\u0131z i\u00e7in te\u015fekk\u00fcrler.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "23 g\u00fcn \u00f6nce",
+      "yorum": "Kabak tatlisi cok guzel. Tesekkurler...",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "23 g\u00fcn \u00f6nce",
+      "yorum": "\u00c7ok h\u0131zl\u0131 ve s\u0131cak geldi. \u0130skender lezzetli, te\u015fekk\u00fcrler.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 9"
+      ],
+      "tarih": "25 g\u00fcn \u00f6nce",
+      "yorum": "Cok guzeldi her \u015fey sadece iskender biraz tuzluydu. Elinize sagl\u0131k.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 8",
+        "Servis: 8",
+        "Lezzet: 8"
+      ],
+      "tarih": "26 g\u00fcn \u00f6nce",
+      "yorum": "Epey b\u00fcy\u00fck bol malzemeli bir lahmacundu.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "27 g\u00fcn \u00f6nce",
+      "yorum": "\u0130yisiniz, ho\u015fsunuz ama bir sipari\u015f bir di\u011ferini tutmuyor.",
+      "yorum-yemek": ""
+    },
+    {
+      "puan": [
+        "H\u0131z: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "27 g\u00fcn \u00f6nce",
+      "yorum": "Harikaydi.",
+      "yorum-yemek": ""
+    }
+  ],
+  "i\u00e7erik": [
+    " Coca-Cola Se\u00e7ilmi\u015f Men\u00fcl",
+    " Men\u00fc",
+    " \u00c7orba",
+    " Aperitif",
+    " D\u00f6ner",
+    " Kebap",
+    " Izgara"
+  ]
+}
