@@ -1,0 +1,76 @@
+{
+  "name": "https://www.yemeksepeti.com/konyalimm-etli-ekmek-kebap-aksu-guzelyurt-mah-antalya",
+  "city": "antalya",
+  "restaurant_name": " Konyalımm Etli Ekmek & Kebap, Aksu (Güzelyurt Mah.) ",
+  "state": "aksu-altintas-mah",
+  "Hız": "8,8",
+  "Servis": "8,3",
+  "Lezzet": "8,0",
+  "menu": {
+    "Lahmacun (2 Adet)": "16,00 TL",
+    "Etli Ekmek": "16,00 TL",
+    "Mevlana Pide": "18,00 TL",
+    "Bıçak Arası Pide": "22,00 TL",
+    "Semazen Pide": "24,00 TL",
+    "Kaşarlı Pide": "16,00 TL",
+    "Beyaz Peynirli Pide": "16,00 TL",
+    "Adana Kebap": "22,00 TL",
+    "Urfa Kebap": "22,00 TL",
+    "Burdur Şiş": "22,00 TL",
+    "Aksu Köfte": "22,00 TL",
+    "  ": "10,00 TL",
+    "Tavuk Kanat": "22,00 TL",
+    "Tavuk Şiş": "20,00 TL",
+    "Karışık Izgara": "60,00 TL",
+    "Sac Kavurma": "28,00 TL",
+    "Kiremitte Et": "24,00 TL",
+    "Kiremitte Tavuk": "22,00 TL",
+    "Kiremitte Köfte": "24,00 TL",
+    "Tavuk Sote": "20,00 TL",
+    "Sade Tavuk Döner": "14,00 TL",
+    "Pilav Üstü Tavuk Döner": "18,00 TL",
+    "Tavuk Döner Dürüm (100 gr.)": "10,00 TL",
+    "Tavuk Döner Dürüm (150 gr.)": "15,00 TL",
+    "Hatay Usulü Soslu Tavuk Döner Dürüm": "10,00 TL",
+    "Hatay Usulü Soslu Tavuk Döner Dürüm (150 gr.)": "15,00 TL",
+    "Adana Dürüm": "12,00 TL",
+    "Urfa Dürüm": "12,00 TL",
+    "Tavuk Şiş Dürüm": "12,00 TL",
+    "Ekmek Arası Köfte": "12,00 TL",
+    "Sade Künefe": "14,00 TL",
+    "Fanta (2,5 L.)": "10,00 TL",
+    "Poşet": "0,25 TL"
+  },
+  "servis-alani": [
+    "Aksu (Güzelyurt Mah.)",
+    "Aksu (Konak Mah.)",
+    "Aksu (Macun Mah.)",
+    "Aksu (Altıntaş Mah.)",
+    "Kepez (Altınova Sinan Mah.)",
+    "Kepez (Menderes Mah.)",
+    "Muratpaşa (Yenigöl Mah.)"
+  ],
+  "yorumlar": [
+    {
+      "puan": [
+        "Hız: 9",
+        "Servis: 9",
+        "Lezzet: 9"
+      ],
+      "tarih": "04/12/2020",
+      "ay": "12",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Lahmacun cok tuzluydu.",
+      "yorum-yemek": []
+    }
+  ],
+  "içerik": [
+    "FırınÜrünleri",
+    "Kebaplar",
+    "Izgaralar",
+    "KiremitteÜrün",
+    "TavukDöner",
+    "Dürüm"
+  ]
+}

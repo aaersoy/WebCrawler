@@ -1,0 +1,1163 @@
+{
+  "name": "https://www.yemeksepeti.com/bomba-doner-sisli-mecidiyekoy-mah-istanbul",
+  "city": "istanbul",
+  "restaurant_name": " Bomba Döner, Şişli (Mecidiyeköy Mah.) ",
+  "state": "besiktas-bebek-mah",
+  "Hız": "8,2",
+  "Servis": "7,8",
+  "Lezzet": "7,8",
+  "menu": {
+    "Tavuk Döner": "15,00 TL",
+    "Pilav Üstü Tavuk Döner": "16,80 TL",
+    "Tandır Ekmek Arası Tavuk Döner": "5,40 TL",
+    "Yarım Ekmek Arası Tavuk Döner": "5,40 TL",
+    "Tavuk Döner Dürüm": "9,60 TL",
+    "3/4 Ekmek Arası Tavuk Döner": "10,80 TL",
+    "Tam Ekmek Arası Tavuk Döner": "10,80 TL",
+    "Kaşarlı Tavuk Döner Dürüm": "12,00 TL",
+    "Bomba Tavuk Döner Dürüm": "12,00 TL",
+    "  ": "1,80 TL",
+    "Poşet": "0,25 TL"
+  },
+  "servis-alani": [
+    "Şişli (Mecidiyeköy Mah.)",
+    "Beşiktaş (Gayrettepe Mah.)",
+    "Beşiktaş (Gayrettepe Mah.)",
+    "Beşiktaş (Mecidiye Mah.)",
+    "Şişli (19 Mayıs Mah.)",
+    "Şişli (Gülbahar Mah. - Gülbağ)",
+    "Şişli (Kuştepe Mah.)",
+    "Şişli (Mecidiyeköy Mah. - Dereboyu)",
+    "Şişli (Merkez Mah.)",
+    "Beşiktaş (Balmumcu Mah.)",
+    "Beşiktaş (Balmumcu Mah.)",
+    "Beşiktaş (Dikilitaş Mah.)",
+    "Beşiktaş (Dikilitaş Mah.)",
+    "Beşiktaş (Ortaköy Mah.)",
+    "Şişli (Bozkurt Mah. - Kurtuluş)",
+    "Şişli (Esentepe Mah. - Plazalar)",
+    "Şişli (Esentepe Mah.)",
+    "Şişli (Eskişehir Mah.)",
+    "Şişli (Fulya Mah. - Ortaklar)",
+    "Şişli (Halaskargazi Mah. - Osmanbey)",
+    "Şişli (Harbiye Mah.)",
+    "Şişli (İzzet Paşa Mah.)",
+    "Kağıthane (Çağlayan Mah.)",
+    "Kağıthane (Çağlayan Mah.)",
+    "Kağıthane (Çeliktepe Mah.)",
+    "Kağıthane (Çeliktepe Mah.)",
+    "Kağıthane (Gültepe Mah.)",
+    "Kağıthane (Gültepe Mah.)",
+    "Kağıthane (Telsizler Mah.)",
+    "Kağıthane (Telsizler Mah.)",
+    "Beşiktaş (Cihannuma Mah.)",
+    "Beşiktaş (Cihannuma Mah.)",
+    "Beşiktaş (Kültür Mah.)",
+    "Beşiktaş (Nisbetiye Mah.)",
+    "Kağıthane (Gürsel Mah.)",
+    "Şişli (Halil Rıfat Paşa Mah. - Perpa)",
+    "Şişli (Mahmut Şevket Paşa Mah.)",
+    "Şişli (Meşrutiyet Mah. - Nişantaşı)",
+    "Şişli (Paşa Mah.)",
+    "Şişli (Teşvikiye Mah.)",
+    "Beşiktaş (Konaklar Mah.)",
+    "Beşiktaş (Levazım Mah.)",
+    "Beşiktaş (Ulus Mah.)",
+    "Kağıthane (Seyrantepe Mah.)",
+    "Kağıthane (Sultan Selim / Sanayi Mah.)",
+    "Şişli (Cumhuriyet Mah. - Bomonti)",
+    "Şişli (Duatepe Mah.)",
+    "Şişli (Feriköy Mah.)",
+    "Şişli (Fulya Mah.)",
+    "Şişli (Halide Edip Adıvar Mah.)",
+    "Şişli (Kaptanpaşa Mah. - Okmeydanı)",
+    "Beşiktaş (Abbasağa Mah.)",
+    "Beşiktaş (Akat Mah.)",
+    "Beşiktaş (Etiler Mah.)",
+    "Beşiktaş (Levent Mah.)",
+    "Beşiktaş (Sinanpaşa Mah.)",
+    "Beşiktaş (Yıldız Mah.)",
+    "Beyoğlu (Gümüşsuyu Mah. - Taksim)",
+    "Beyoğlu (Hacıahmet Mah.)",
+    "Beyoğlu (Halıcıoğlu Mah.)",
+    "Beyoğlu (Sütlüce Mah.)",
+    "Kağıthane (Emniyetevleri Mah.)",
+    "Kağıthane (Hamidiye Mah.)",
+    "Kağıthane (Hürriyet Mah.)",
+    "Kağıthane (Nurtepe Mah.)",
+    "Kağıthane (Talatpaşa Mah.)",
+    "Kağıthane (Yahya Kemal Mah. - Ayazma)",
+    "Kağıthane (Yeşilce Mah.)",
+    "Şişli (Ergenekon Mah. - Dolapdere)",
+    "Şişli (Ergenekon Mah. - Pangaltı)",
+    "Şişli (Harbiye Mah. - Maçka)",
+    "Şişli (İnönü Mah. - Elmadağ)",
+    "Şişli (Yayla Mah.)",
+    "Beşiktaş (Etiler Mah.)",
+    "Beşiktaş (Arnavutköy Mah.)",
+    "Beşiktaş (Bebek Mah.)",
+    "Beyoğlu (Cihangir Mah.)",
+    "Beyoğlu (Gümüşsuyu Mah. - Taksim)",
+    "Beyoğlu (Yenişehir Mah.)",
+    "Eyüp (Güzeltepe Mah. - 5. Levent)",
+    "Eyüp (Rami Yeni Mah.)",
+    "Eyüp (Rami Yeni Mah.)",
+    "Eyüp (Topçular Mah.)",
+    "Fatih (Ayvansaray Mah.)",
+    "Kağıthane (Emniyetevleri Mah.)",
+    "Kağıthane (Mehmet Akif Ersoy Mah.)",
+    "Sarıyer (Ayazağa Mah. - Vadi İstanbul Bölgesi)",
+    "Sarıyer (Ayazağa Mah.)",
+    "Sarıyer (Bahçeköy Kemer Mah.)",
+    "Sarıyer (Baltalimanı Mah.)",
+    "Sarıyer (FSM Mah.)",
+    "Sarıyer (İstinye Mah.)",
+    "Sarıyer (Kazım Karabekir Mah.)",
+    "Sarıyer (Kireçburnu Mah.)",
+    "Sarıyer (Maslak Mah. - Mashattan Bölgesi)",
+    "Sarıyer (Maslak Mah. - Maslak 1453 Bölgesi)",
+    "Sarıyer (Maslak Mah.)",
+    "Sarıyer (Rumelihisarı Mah. - Hisarüstü)",
+    "Sarıyer (Rumelihisarı Mah.)",
+    "Sarıyer (Rumelikavağı Mah.)",
+    "Sarıyer (Sarıyer Merkez Mah.)"
+  ],
+  "yorumlar": [
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/12/2020",
+      "ay": "12",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Vedat kardeşimiz bu işi bilion sen.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 9",
+        "Lezzet: 9"
+      ],
+      "tarih": "02/12/2020",
+      "ay": "12",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Fiyat a göre çok lezzetli kaşarlı dürüm başarılı jet gibi geldi puanlar niye düşük anlamadım.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 8",
+        "Lezzet: 7"
+      ],
+      "tarih": "01/12/2020",
+      "ay": "12",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Döner bi tık yavandı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 9",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "01/12/2020",
+      "ay": "12",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pilav ustu tavuk doner istedik plavin tanelerini sayarak koymussunuz galiba bi kasik pilav yoktu yedigim en lezzetsiz yemek olabilir.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "30/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hız, servis ve lezzet on numara. Teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "30/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Berbatt.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "29/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Harika lezzet.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 8",
+        "Servis: 8",
+        "Lezzet: 8"
+      ],
+      "tarih": "29/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Güzel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "29/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hızlı ve sıcak servis teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Murat beye teşekkürler hızlı ve sıcaktı iyi çalışmalar dilerim..",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Döneri yedikten sonra çok rahatsızlandık hiç beğenmedim.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Efsane lezzet.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Tskrler keske metropol da geçse.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Gayet hızlı ve lezzetli.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 3",
+        "Lezzet: 7"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Dün sipariş verdik pilav üstü döner istedik pilavingelmedi gönderelim dediler gelmedi kuryeci arkadaş murat beye teşekkür ederim zamanında hızlı sıcak şekilde getirdi tek eksik pilav idi keşke gönderemem deseydiniz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 8",
+        "Servis: 7",
+        "Lezzet: 8"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Bir ayranımız eksik geldi :( ama sağlık olsun. Ellerinize sağlık.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 7",
+        "Servis: 1",
+        "Lezzet: 7"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Yemekler soğuk geldi soğuk yemek yemeyi kim ister.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Tırnak pide olan bomba döneri kesinlikle denemelisiniz :).",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İyidir.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Bomba döner bu fiyata fos çıktı tavsiye etmem.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 9",
+        "Lezzet: 9"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Bu pandemide bu hız helal olsun. Yaklaşık 20 dakikada geldi. Lezzet de yerindeydi. Ellerinize sağlık.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 8",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "50 indirimden faydalandım tam parası kadarlık ürünlerdi. 5 liraya yarım ekmekten ne beklenebilir ki? Normal ürünleri 50 ye yemiyorsunuz. Düşmüş fiyat kadarlık ürün yiyorsunuz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 9"
+      ],
+      "tarih": "23/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Bomba tavuk döner menüsünden aldım, sipariş 25 dakikada geldi, serviste herhangi bir eksik yoktu. Tadıda güzeldi.",
+      "yorum-yemek": [
+        "TavukDöner",
+        "Tavuk Döner"
+      ]
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "23/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Biraz acı ama tadı çok iyi hızıda çok iyi hız konusunda kesinlikle daha iyisi yok.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "23/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok beğendim.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "22/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hızlı geldi gayettte lezetli.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 5",
+        "Servis: 10",
+        "Lezzet: 7"
+      ],
+      "tarih": "22/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "The only problem is time. İt take so long to get your orders.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 5",
+        "Servis: 4",
+        "Lezzet: 6"
+      ],
+      "tarih": "21/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Turşu ve ketçap getirilmedi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 9"
+      ],
+      "tarih": "20/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Tavuk döner lezzetli ama biraz soğuktu. Servis güzel yanında salata turşu soğan çok iyi.",
+      "yorum-yemek": [
+        "TavukDöner",
+        "Tavuk Döner"
+      ]
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "19/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Müthişş hizmett harika dönerrrrrr.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 4",
+        "Lezzet: 1"
+      ],
+      "tarih": "18/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Sipariş geldiği zaman bahçeden tavuğu yakalayıp kesiyorlar herhalde 1 saat 15 dakika sürdü, 12 yi 42 geçe yola çıktı görünen siparişim 1:28 de elime ulaştı46 dakika tavuğun yolculuğu sürdüinsanlar bu sürede şehir değiştiriyor.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "18/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Siparişi tam 2 saat sonra buz gibi getirdiler. Sipariş vermeden önce iki kere düşünün.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 1",
+        "Lezzet: 5"
+      ],
+      "tarih": "17/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Kredi kartı ile ödeme dedik sipariş geldi 3 tane kart denememize rahmen ayak yapıyorlar kart çekmiyor kabul etmiyor diye mecbur nakit verdik.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "17/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok geç geldi, soğumuştu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "14/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Lavaş hamur olmuş vaziyette geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "12/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Sıcak ve çok lezizdi tekrardan teşekkür ediyorum, gerçekten bu puanı hak etmiyor ayrıca ikramınız için çok teşekkür ederim :).",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 4",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "11/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Yavaslik haricinde super.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "09/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Herşey için teşekkürler hayırlı bol bereketli işler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 4"
+      ],
+      "tarih": "09/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Dürüm derken ince bir dürüm anlaşılıyor genel intiba olarak, sizin gönderdiğiniz fırında satılan kalın parmak pide ile yapılmış dürüm. Dolayısıyla içindeki lezzeti kalın pidenin hamurundan dolayı anlayamadık.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 9",
+        "Servis: 9",
+        "Lezzet: 9"
+      ],
+      "tarih": "08/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "İlk once yorumlari okudugumda kötü olabilecegiji düşündüm ama baska acik yer olmadigi icin 11 de aksam sipariş verdim 40 dakikada geldi bana uzak olmasina ragmen iyi zamanlama lezzeti de o saatte yedigin donere gore gayet iyiydi begendim.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "06/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "1. 5 saatte geldi buz gibiydi. Lavaş sertlesmisti cips gibi yedik.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 7"
+      ],
+      "tarih": "05/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Bir yemek nasıl yavaş getirilir onu gösterdiniz. Teşekkürler 2 saat sonra geldi. Ben aldığımı unutmuştum.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 9",
+        "Servis: 9",
+        "Lezzet: 9"
+      ],
+      "tarih": "05/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Notlara kesinlikle dikkat ediyorlar, güzeldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "04/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "3 saat geç geldi, servis 0, lezzet 0.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 8",
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "04/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Bomba tavuk döner dürüm gayet iyi tavsiye ederim.",
+      "yorum-yemek": [
+        "TavukDöner",
+        "Tavuk Döner",
+        "Tavuk Döner Dürüm",
+        "Bomba Tavuk Döner Dürüm"
+      ]
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "04/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Siparişten 2 buçuk saat sonra ne yemek var ne haber ne de ulaşabildiğim birisi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Ellerinize sağlık.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Ben hayatımda bu kadar yavaş getiren bir restoran daha görmedim. 1 buçuk saatte siparişim elime ulaştı ve dolayısıyla buz gibiyd. Ayran için pipet falan da yoktu. Turşu beklentisini söylmek aşırı gelir herhalde size. Kurye bir de biraz gecikti diyor dalga geçer gibi. İlk ve son siparişim.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok teşekkür ederiz. Her şey güzeldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Beğendim.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Notumu dikkate aldığınız için çok teşekkür ederim elinize sağlık çok güzeldi ayrıca siparişim çok hızlı geldi ayriyeten bunun içinde çok teşekkür ederim.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "10 numara döner, ucuz ve lezzetli. Notlara da dikkat ediyorlar, ellerinize sağlık...",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İdare eder.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Güzeldi elinize sağlık.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hızlı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 3",
+        "Servis: 5",
+        "Lezzet: 2"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Lezzeti kötü beğenmedik.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "70 dk da geldi rezalet.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 9",
+        "Servis: 3",
+        "Lezzet: 4"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Dürüm dediğin lavaşa sarılıp yollanır bu bildiğin pideye sarılmış yerken dökülüyor tutamıyorduk bile içinde 140 gram tavuk varmıydı ondan bile emin değilim rezaletti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Neden düşük puan anlamadım, gayet lezzetli ve kaliteliydi. Pilav üstü döner ve dürüm döner yedik, dürüm döner tırnak pide benzeri bir hamurda geliyor, ama güzel :).",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 8",
+        "Servis: 8",
+        "Lezzet: 8"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Ortalama.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Siparişi iptal etmemize rağmen kapımıza kadar gelip zorla siparişi vermeye çalıştı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "3 kişi söyledık ıkı kısıye bırsey olmadı bır kısının bıraz mıgdesını bozdu sanırım ama genel olarak güzeldi sadece lavaslar bıraz kucuk tantuni gibi fiyatları bır lıra daha arttırıp orjinal lavas kullanabılırsınız yenı oldugunuz ıcın puan kırmadık ancak kensınızı gelıstırın acı ve sulu olmasıda guze.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Berbat allahım korusun bu ilk ve son.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 5",
+        "Servis: 7",
+        "Lezzet: 1"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Midemizi maffetti yemez olaydık.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Tavuğu sulu ve lezzetliydi gayet de doyurucu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Gayet iyiydi, ellerinize sağlık.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Abi on numara puanlar nasıl bu kadar düşük anlam veremedim.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 9",
+        "Servis: 9",
+        "Lezzet: 7"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Ortadan hallice.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pide gibi lavasda dürüm ilk defa yedim ama cok begendim doyurucuydu tavsiye ederim :)).",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "1 saati geçkin bir sürede geldi ve inanılmaz soğuktu mide bulandırdı bir daha yemem.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 9",
+        "Servis: 9",
+        "Lezzet: 6"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "O kadar kalın pidenin içinde döner olmaz. O pide çorbanın yanında gider wasat.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok iyidi ama içi çok sade olmuştu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Kaşarlı tavuk durum söyledim lezzetliydi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 8",
+        "Lezzet: 5"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Tırnak pideye döner mi olur ya.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Rezalet bir buçuk saat de geldi buz gibi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 1",
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Siparişin gelmesi 1 saat 40 dakika sürdüğü için ve bu sürede restorana hiçbir şekilde ulaşılamadığı için siparişi reddettim.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 6",
+        "Servis: 6",
+        "Lezzet: 6"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Daha iyi olabilirler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hızlı ve lezzetli, teşekkürler.",
+      "yorum-yemek": []
+    }
+  ],
+  "içerik": [
+    "Coca-ColaSeçilmişMenüleri",
+    "VodafoneMenüleri",
+    "YılbaşıMenüleri",
+    "TavukDöner",
+    "İçecek",
+    "Poşet",
+    "Tavuk Döner",
+    "Tavuk Döner Dürüm",
+    "Bomba Tavuk Döner Dürüm"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "https://www.yemeksepeti.com/durum-aski-muratpasa-yesilkoy-mah-antalya",
+  "city": "antalya",
+  "restaurant_name": " Dürüm Aşkı, Muratpaşa (Yeşilköy Mah.) ",
+  "state": "aksu-altintas-mah",
+  "Hız": "7,8",
+  "Servis": "8,0",
+  "Lezzet": "8,0",
+  "menu": {},
+  "servis-alani": [
+    "Muratpaşa (Yeşilköy Mah.)",
+    "Aksu (Güzelyurt Mah.)",
+    "Aksu (Altıntaş Mah.)",
+    "Aksu (Macun Mah.)",
+    "Kepez (Altınova Orta Mah.)",
+    "Kepez (Altınova Sinan Mah.)",
+    "Kepez (Menderes Mah.)",
+    "Muratpaşa (Yenigöl Mah.)",
+    "Aksu (Konak Mah.)",
+    "Muratpaşa (Ermenek Mah.)",
+    "Muratpaşa (Güzeloba Mah.)",
+    "Muratpaşa (Mehmetçik Mah.)",
+    "Muratpaşa (Topçular Mah.)",
+    "Muratpaşa (Yeşilova Mah.)"
+  ],
+  "yorumlar": [
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "02/12/2020",
+      "ay": "12",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paket lezzet ve hız gayet başarılı.",
+      "yorum-yemek": []
+    }
+  ],
+  "içerik": [
+    "Menü",
+    "Kebap",
+    "Izgara",
+    "Dürüm"
+  ]
+}

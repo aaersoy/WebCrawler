@@ -1,0 +1,2371 @@
+{
+  "name": "https://www.yemeksepeti.com/divan-delivery-besiktas-bebek-mah-istanbul",
+  "city": "istanbul",
+  "restaurant_name": " Divan Delivery, Beşiktaş (Bebek Mah.)    ",
+  "state": "besiktas-bebek-mah",
+  "Hız": "Vale",
+  "Servis": "9,5",
+  "Lezzet": "8,9",
+  "menu": {
+    "Patates Tava": "25,00 TL",
+    "Arnavut Ciğeri": "55,00 TL",
+    "Peynirli Omlet": "30,00 TL",
+    "Peynirli Su Böreği": "30,00 TL",
+    "Granola": "40,00 TL",
+    "Sucuklu Omlet": "35,00 TL",
+    "Sebzeli Omlet": "30,00 TL",
+    "Simit Sandviç": "25,00 TL",
+    "Menemen": "30,00 TL",
+    "Ezine Peynirli Tost": "35,00 TL",
+    "Dil Peynirli Sucuklu Tost": "40,00 TL",
+    "  ": "7,00 TL",
+    "Bal Kabağı Çorbası": "35,00 TL",
+    "Dana Bonfile": "95,00 TL",
+    "Etli Pazı Dolması": "55,00 TL",
+    "Yoğurtlu Kebap": "75,00 TL",
+    "Ekşili Köfte": "55,00 TL",
+    "Hünkarbeğendi": "75,00 TL",
+    "Ağır Ateşte Pişirilmiş Dana Kürek": "85,00 TL",
+    "Spaghetti Napolitan": "45,00 TL",
+    "Glutensiz Penne": "50,00 TL",
+    "Ev Yapımı Mantı": "55,00 TL",
+    "Club Sandviç": "60,00 TL",
+    "Krok Mösyöö": "65,00 TL",
+    "Sezar Salata": "60,00 TL",
+    "Bonfile Salata": "75,00 TL",
+    "Portakallı İrmik Helvası": "25,00 TL",
+    "Mascarpone Peynirli Cheesecake": "35,00 TL"
+  },
+  "servis-alani": [
+    "Beşiktaş (Akat Mah.)",
+    "Beşiktaş (Arnavutköy Mah.)",
+    "Beşiktaş (Bebek Mah.)",
+    "Beşiktaş (Etiler Mah.)",
+    "Beşiktaş (Kuruçeşme Mah.)",
+    "Beşiktaş (Kültür Mah.)",
+    "Beşiktaş (Levazım Mah.)",
+    "Beşiktaş (Levent Mah.)",
+    "Beşiktaş (Nisbetiye Mah.)",
+    "Beşiktaş (Ulus Mah.)",
+    "Sarıyer (Baltalimanı Mah.)",
+    "Sarıyer (Rumelihisarı Mah. - Hisarüstü)",
+    "Sarıyer (Rumelihisarı Mah.)"
+  ],
+  "yorumlar": [
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Her zamanki gibi mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 7"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hep 10 verirdim. Bu defa lezzete 7 veriyorum. Pazı sarması ne yazıl ki pilav şeklinde çok pişmiş geldi. Diğer yemekler başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her zamanki gibi muhteşem divan kalitesi!",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Kalitenizi belli ettiniz. Paketleme hijyen koşulları ve tabii ki de lezzet süperdi. Hiç bir detay unutulmamış çok teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İndirim yaptığı dönemlerde fiyat yüksek ama servis ve lezzete göre makul. İndirim olmadığı zamanlarda fiyat yüksek ve servis ve lezzete göre makul değil.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "22/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan kalitesiyle özenli ve lezzetli servis, teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "17/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "15/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok kağıt harcıyorsunuz bence o büyük karton kutularla, tek kullanımlık bir şey için aşırı büyük kutular. Lezzetliydi herşey :) özellikle çorbanın tadı çok güzeldi. Ancak hızınız biraz yavaş.",
+      "yorum-yemek": [
+        "Çorba"
+      ]
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme harikaydı. Palamut şişler çok lezizdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pizza da profiterol de nefisti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Snitzel cok guzel, servis cok guzel, tesekkurler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 3"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan şaşırttı bu sefer, çok özensiz bir dürüm yapılmış. Onun haricinde resimde dürümün yanında kutu içinde patates kızartması vardı. Gelmedi, onun yerine salata geldi ki ben dışarda salata yemediğim için olduğu gibi çöpe gitti. Dürümün içinde patates istememiştim ama yanında gelmesi gerekiyordu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 6"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Palamutlar yeterince pişmemişti. Ve lezzetsizfi. Porsiyonlar küçüktü.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her sey cok lezzetli.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 6",
+        "Lezzet: 9"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme içşn bu kadar gösterişe gerek var mı bilemedim. Yazık.. Zaten kutu içindeki yemek kutuları oldukça güzel, güvenli ve sağlam. Ayrıca dışında bir daha kutu israf gibi..",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hersey harika.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Yemekler çok lezzetliydi. Sadece patates kızartması daha iyi olabilirdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pide servisi için başka bir çözüm üretmeniz lazım. Soğuk geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok güzeldi teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Vale hizmetinin personel kalitesine hayranım. Mükkemmel bir ekip ile çalışıyorsunuz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan tartışmasız kalite.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok iyiydi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 6"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Sipariş notlarını okumuyorlar.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 7"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hamburger çok tuzlu ve sertti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Ek malzeme ayrı vakumlu ambalajda çok iyi. Ancak pizza ambalajı çok kötüydü, neredeyse açık geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Yemekler çok başarılı ve paketleme çok özenliydi. İbrahim beye çok teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 1",
+        "Lezzet: 7"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Siparis eksik gonderildi birdaha geri gidip dogrusunu almaya gidince geri tekrar eksik getirilip tekrar kurye geri gitti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 9"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Harika.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 5",
+        "Lezzet: 2"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İlk başarısız köfte siparişimden sonra ikinci şansı vereyim dedim ne hata! Kupkuru sert yenilemeyecek kadar kötü bir sözümona şnitzel! Berbat ekşimiş patates salatası! Dünya kadar para verip çöp olan şeyler! Divan bitmiş! Karakistede artık.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 7"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Köfte fazla tuzluydu patateslerde çok yumuşak, tek şahane şey beğendiydi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Güzeldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 1",
+        "Lezzet: 1"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan salata yerine mercimek çorbası geldi.",
+      "yorum-yemek": [
+        "Çorba"
+      ]
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Tek kelime ile mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Su an piyasadaki en iyi kofte, en iyi profiterol.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme lezzet süper, maskesiz servis malesef.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/09/2020",
+      "ay": "9",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Ancak bu kadar iyi olabilirdi! Paketleme inanılmazdı eve yemek söylemeye yeni bir boyut getirdikleri kesin.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "06/07/2020",
+      "ay": "7",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan, kalitesini paket serviste de göstermiş. Yemeğim hem lezzet hem de sunum olarak muhteşemdi. Teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Her zamanki gibi mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 7"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hep 10 verirdim. Bu defa lezzete 7 veriyorum. Pazı sarması ne yazıl ki pilav şeklinde çok pişmiş geldi. Diğer yemekler başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her zamanki gibi muhteşem divan kalitesi!",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Kalitenizi belli ettiniz. Paketleme hijyen koşulları ve tabii ki de lezzet süperdi. Hiç bir detay unutulmamış çok teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İndirim yaptığı dönemlerde fiyat yüksek ama servis ve lezzete göre makul. İndirim olmadığı zamanlarda fiyat yüksek ve servis ve lezzete göre makul değil.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "22/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan kalitesiyle özenli ve lezzetli servis, teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "17/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "15/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok kağıt harcıyorsunuz bence o büyük karton kutularla, tek kullanımlık bir şey için aşırı büyük kutular. Lezzetliydi herşey :) özellikle çorbanın tadı çok güzeldi. Ancak hızınız biraz yavaş.",
+      "yorum-yemek": [
+        "Çorba"
+      ]
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme harikaydı. Palamut şişler çok lezizdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pizza da profiterol de nefisti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Snitzel cok guzel, servis cok guzel, tesekkurler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 3"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan şaşırttı bu sefer, çok özensiz bir dürüm yapılmış. Onun haricinde resimde dürümün yanında kutu içinde patates kızartması vardı. Gelmedi, onun yerine salata geldi ki ben dışarda salata yemediğim için olduğu gibi çöpe gitti. Dürümün içinde patates istememiştim ama yanında gelmesi gerekiyordu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 6"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Palamutlar yeterince pişmemişti. Ve lezzetsizfi. Porsiyonlar küçüktü.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her sey cok lezzetli.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 6",
+        "Lezzet: 9"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme içşn bu kadar gösterişe gerek var mı bilemedim. Yazık.. Zaten kutu içindeki yemek kutuları oldukça güzel, güvenli ve sağlam. Ayrıca dışında bir daha kutu israf gibi..",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hersey harika.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Yemekler çok lezzetliydi. Sadece patates kızartması daha iyi olabilirdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pide servisi için başka bir çözüm üretmeniz lazım. Soğuk geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok güzeldi teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Vale hizmetinin personel kalitesine hayranım. Mükkemmel bir ekip ile çalışıyorsunuz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan tartışmasız kalite.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok iyiydi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 6"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Sipariş notlarını okumuyorlar.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 7"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hamburger çok tuzlu ve sertti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Ek malzeme ayrı vakumlu ambalajda çok iyi. Ancak pizza ambalajı çok kötüydü, neredeyse açık geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Yemekler çok başarılı ve paketleme çok özenliydi. İbrahim beye çok teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Her zamanki gibi mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 7"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hep 10 verirdim. Bu defa lezzete 7 veriyorum. Pazı sarması ne yazıl ki pilav şeklinde çok pişmiş geldi. Diğer yemekler başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her zamanki gibi muhteşem divan kalitesi!",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Kalitenizi belli ettiniz. Paketleme hijyen koşulları ve tabii ki de lezzet süperdi. Hiç bir detay unutulmamış çok teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İndirim yaptığı dönemlerde fiyat yüksek ama servis ve lezzete göre makul. İndirim olmadığı zamanlarda fiyat yüksek ve servis ve lezzete göre makul değil.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "22/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan kalitesiyle özenli ve lezzetli servis, teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "17/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "15/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok kağıt harcıyorsunuz bence o büyük karton kutularla, tek kullanımlık bir şey için aşırı büyük kutular. Lezzetliydi herşey :) özellikle çorbanın tadı çok güzeldi. Ancak hızınız biraz yavaş.",
+      "yorum-yemek": [
+        "Çorba"
+      ]
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme harikaydı. Palamut şişler çok lezizdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pizza da profiterol de nefisti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Snitzel cok guzel, servis cok guzel, tesekkurler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 3"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan şaşırttı bu sefer, çok özensiz bir dürüm yapılmış. Onun haricinde resimde dürümün yanında kutu içinde patates kızartması vardı. Gelmedi, onun yerine salata geldi ki ben dışarda salata yemediğim için olduğu gibi çöpe gitti. Dürümün içinde patates istememiştim ama yanında gelmesi gerekiyordu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 6"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Palamutlar yeterince pişmemişti. Ve lezzetsizfi. Porsiyonlar küçüktü.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her sey cok lezzetli.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 6",
+        "Lezzet: 9"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme içşn bu kadar gösterişe gerek var mı bilemedim. Yazık.. Zaten kutu içindeki yemek kutuları oldukça güzel, güvenli ve sağlam. Ayrıca dışında bir daha kutu israf gibi..",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hersey harika.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Yemekler çok lezzetliydi. Sadece patates kızartması daha iyi olabilirdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pide servisi için başka bir çözüm üretmeniz lazım. Soğuk geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok güzeldi teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Vale hizmetinin personel kalitesine hayranım. Mükkemmel bir ekip ile çalışıyorsunuz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan tartışmasız kalite.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok iyiydi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 6"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Sipariş notlarını okumuyorlar.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 7"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hamburger çok tuzlu ve sertti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Ek malzeme ayrı vakumlu ambalajda çok iyi. Ancak pizza ambalajı çok kötüydü, neredeyse açık geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Yemekler çok başarılı ve paketleme çok özenliydi. İbrahim beye çok teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Her zamanki gibi mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 7"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hep 10 verirdim. Bu defa lezzete 7 veriyorum. Pazı sarması ne yazıl ki pilav şeklinde çok pişmiş geldi. Diğer yemekler başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her zamanki gibi muhteşem divan kalitesi!",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Kalitenizi belli ettiniz. Paketleme hijyen koşulları ve tabii ki de lezzet süperdi. Hiç bir detay unutulmamış çok teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İndirim yaptığı dönemlerde fiyat yüksek ama servis ve lezzete göre makul. İndirim olmadığı zamanlarda fiyat yüksek ve servis ve lezzete göre makul değil.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "22/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan kalitesiyle özenli ve lezzetli servis, teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "17/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "15/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok kağıt harcıyorsunuz bence o büyük karton kutularla, tek kullanımlık bir şey için aşırı büyük kutular. Lezzetliydi herşey :) özellikle çorbanın tadı çok güzeldi. Ancak hızınız biraz yavaş.",
+      "yorum-yemek": [
+        "Çorba"
+      ]
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme harikaydı. Palamut şişler çok lezizdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pizza da profiterol de nefisti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Snitzel cok guzel, servis cok guzel, tesekkurler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 3"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan şaşırttı bu sefer, çok özensiz bir dürüm yapılmış. Onun haricinde resimde dürümün yanında kutu içinde patates kızartması vardı. Gelmedi, onun yerine salata geldi ki ben dışarda salata yemediğim için olduğu gibi çöpe gitti. Dürümün içinde patates istememiştim ama yanında gelmesi gerekiyordu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 6"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Palamutlar yeterince pişmemişti. Ve lezzetsizfi. Porsiyonlar küçüktü.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her sey cok lezzetli.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 6",
+        "Lezzet: 9"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme içşn bu kadar gösterişe gerek var mı bilemedim. Yazık.. Zaten kutu içindeki yemek kutuları oldukça güzel, güvenli ve sağlam. Ayrıca dışında bir daha kutu israf gibi..",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hersey harika.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Yemekler çok lezzetliydi. Sadece patates kızartması daha iyi olabilirdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pide servisi için başka bir çözüm üretmeniz lazım. Soğuk geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok güzeldi teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Vale hizmetinin personel kalitesine hayranım. Mükkemmel bir ekip ile çalışıyorsunuz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan tartışmasız kalite.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok iyiydi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 6"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Sipariş notlarını okumuyorlar.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 7"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hamburger çok tuzlu ve sertti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Ek malzeme ayrı vakumlu ambalajda çok iyi. Ancak pizza ambalajı çok kötüydü, neredeyse açık geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Yemekler çok başarılı ve paketleme çok özenliydi. İbrahim beye çok teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Her zamanki gibi mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 7"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hep 10 verirdim. Bu defa lezzete 7 veriyorum. Pazı sarması ne yazıl ki pilav şeklinde çok pişmiş geldi. Diğer yemekler başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her zamanki gibi muhteşem divan kalitesi!",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Kalitenizi belli ettiniz. Paketleme hijyen koşulları ve tabii ki de lezzet süperdi. Hiç bir detay unutulmamış çok teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İndirim yaptığı dönemlerde fiyat yüksek ama servis ve lezzete göre makul. İndirim olmadığı zamanlarda fiyat yüksek ve servis ve lezzete göre makul değil.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "22/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan kalitesiyle özenli ve lezzetli servis, teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "17/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "15/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok kağıt harcıyorsunuz bence o büyük karton kutularla, tek kullanımlık bir şey için aşırı büyük kutular. Lezzetliydi herşey :) özellikle çorbanın tadı çok güzeldi. Ancak hızınız biraz yavaş.",
+      "yorum-yemek": [
+        "Çorba"
+      ]
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme harikaydı. Palamut şişler çok lezizdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pizza da profiterol de nefisti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Snitzel cok guzel, servis cok guzel, tesekkurler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 3"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan şaşırttı bu sefer, çok özensiz bir dürüm yapılmış. Onun haricinde resimde dürümün yanında kutu içinde patates kızartması vardı. Gelmedi, onun yerine salata geldi ki ben dışarda salata yemediğim için olduğu gibi çöpe gitti. Dürümün içinde patates istememiştim ama yanında gelmesi gerekiyordu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 6"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Palamutlar yeterince pişmemişti. Ve lezzetsizfi. Porsiyonlar küçüktü.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her sey cok lezzetli.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 6",
+        "Lezzet: 9"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme içşn bu kadar gösterişe gerek var mı bilemedim. Yazık.. Zaten kutu içindeki yemek kutuları oldukça güzel, güvenli ve sağlam. Ayrıca dışında bir daha kutu israf gibi..",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hersey harika.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Yemekler çok lezzetliydi. Sadece patates kızartması daha iyi olabilirdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pide servisi için başka bir çözüm üretmeniz lazım. Soğuk geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok güzeldi teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Vale hizmetinin personel kalitesine hayranım. Mükkemmel bir ekip ile çalışıyorsunuz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan tartışmasız kalite.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok iyiydi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 6"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Sipariş notlarını okumuyorlar.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 7"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hamburger çok tuzlu ve sertti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Ek malzeme ayrı vakumlu ambalajda çok iyi. Ancak pizza ambalajı çok kötüydü, neredeyse açık geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Yemekler çok başarılı ve paketleme çok özenliydi. İbrahim beye çok teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "28/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Her zamanki gibi mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 7"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hep 10 verirdim. Bu defa lezzete 7 veriyorum. Pazı sarması ne yazıl ki pilav şeklinde çok pişmiş geldi. Diğer yemekler başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "27/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her zamanki gibi muhteşem divan kalitesi!",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "26/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Kalitenizi belli ettiniz. Paketleme hijyen koşulları ve tabii ki de lezzet süperdi. Hiç bir detay unutulmamış çok teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "25/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "İndirim yaptığı dönemlerde fiyat yüksek ama servis ve lezzete göre makul. İndirim olmadığı zamanlarda fiyat yüksek ve servis ve lezzete göre makul değil.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "22/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan kalitesiyle özenli ve lezzetli servis, teşekkür ederiz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "17/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 9"
+      ],
+      "tarih": "15/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok kağıt harcıyorsunuz bence o büyük karton kutularla, tek kullanımlık bir şey için aşırı büyük kutular. Lezzetliydi herşey :) özellikle çorbanın tadı çok güzeldi. Ancak hızınız biraz yavaş.",
+      "yorum-yemek": [
+        "Çorba"
+      ]
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme harikaydı. Palamut şişler çok lezizdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pizza da profiterol de nefisti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Snitzel cok guzel, servis cok guzel, tesekkurler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 3"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan şaşırttı bu sefer, çok özensiz bir dürüm yapılmış. Onun haricinde resimde dürümün yanında kutu içinde patates kızartması vardı. Gelmedi, onun yerine salata geldi ki ben dışarda salata yemediğim için olduğu gibi çöpe gitti. Dürümün içinde patates istememiştim ama yanında gelmesi gerekiyordu.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 6"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Palamutlar yeterince pişmemişti. Ve lezzetsizfi. Porsiyonlar küçüktü.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Her sey cok lezzetli.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok başarılıydı.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 6",
+        "Lezzet: 9"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Paketleme içşn bu kadar gösterişe gerek var mı bilemedim. Yazık.. Zaten kutu içindeki yemek kutuları oldukça güzel, güvenli ve sağlam. Ayrıca dışında bir daha kutu israf gibi..",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Hersey harika.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Yemekler çok lezzetliydi. Sadece patates kızartması daha iyi olabilirdi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Divan kalitesi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Pide servisi için başka bir çözüm üretmeniz lazım. Soğuk geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/11/2020",
+      "ay": "11",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Çok güzeldi teşekkürler.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Vale hizmetinin personel kalitesine hayranım. Mükkemmel bir ekip ile çalışıyorsunuz.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Divan tartışmasız kalite.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Çok iyiydi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 8",
+        "Lezzet: 6"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Sipariş notlarını okumuyorlar.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 9",
+        "Lezzet: 7"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Hamburger çok tuzlu ve sertti.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Mükemmel.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 8"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Ek malzeme ayrı vakumlu ambalajda çok iyi. Ancak pizza ambalajı çok kötüydü, neredeyse açık geldi.",
+      "yorum-yemek": []
+    },
+    {
+      "puan": [
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "04/10/2020",
+      "ay": "10",
+      "yıl": "20",
+      "haftasonu": "True",
+      "yorum": "Yemekler çok başarılı ve paketleme çok özenliydi. İbrahim beye çok teşekkür ederiz.",
+      "yorum-yemek": []
+    }
+  ],
+  "içerik": [
+    "Başlangıç",
+    "Kahvaltılık",
+    "Tost",
+    "Çorba",
+    "AnaYemek",
+    "Makarna",
+    "FırınÜrünleri"
+  ]
+}

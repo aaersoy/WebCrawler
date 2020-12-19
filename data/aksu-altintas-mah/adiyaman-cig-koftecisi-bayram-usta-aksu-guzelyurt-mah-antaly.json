@@ -1,0 +1,52 @@
+{
+  "name": "https://www.yemeksepeti.com/adiyaman-cig-koftecisi-bayram-usta-aksu-guzelyurt-mah-antalya",
+  "city": "antalya",
+  "restaurant_name": " Adıyaman Çiğ Köftecisi Bayram Usta, Aksu (Güzelyurt Mah.) ",
+  "state": "aksu-altintas-mah",
+  "Hız": "9,3",
+  "Servis": "9,2",
+  "Lezzet": "9,3",
+  "menu": {
+    "Çiğ Köfte (250 gr.) Menü": "15,00 TL",
+    "Bomba Çiğ Köfte Dürüm": "6,50 TL",
+    "Çiğ Köfte (400 gr.)": "20,00 TL",
+    "Çiğ Köfte (550 gr.)": "25,00 TL",
+    "Çiğ Köfte (700 gr.)": "30,00 TL",
+    "Çiğ Köfte (1 kg.)": "40,00 TL",
+    "Çiğ Köfte (1 kg.) (Garnitürsüz)": "24,99 TL",
+    "  ": "7,00 TL",
+    "Poşet": "0,25 TL"
+  },
+  "servis-alani": [
+    "Aksu (Güzelyurt Mah.)",
+    "Aksu (Konak Mah.)",
+    "Aksu (Macun Mah.)",
+    "Muratpaşa (Yeşilköy Mah.)",
+    "Aksu (Altıntaş Mah.)",
+    "Kepez (Altınova Sinan Mah.)",
+    "Kepez (Menderes Mah.)"
+  ],
+  "yorumlar": [
+    {
+      "puan": [
+        "Hız: 10",
+        "Servis: 10",
+        "Lezzet: 10"
+      ],
+      "tarih": "03/12/2020",
+      "ay": "12",
+      "yıl": "20",
+      "haftasonu": "False",
+      "yorum": "Lezzet der susarım.",
+      "yorum-yemek": []
+    }
+  ],
+  "içerik": [
+    "Coca-ColaSeçilmişMenüleri",
+    "VodafoneMenüleri",
+    "Menü",
+    "ÇiğKöfte",
+    "İçecek",
+    "Poşet"
+  ]
+}
